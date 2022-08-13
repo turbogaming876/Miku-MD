@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['2349131783574']
+global.OwnerNumber = ['2349131783574']
+global.ownertag = ['2349131783574']
+global.BotName = "OBIZZY-MD"
+global.packname = "OBIZZY-MD"
+global.author = "By: OBIZZY"
+global.OwnerName = "OBIZZY"
+global.BotSourceCode = "https://github.com/turbogaming876/DarcoVampire-MD"
+global.SupportGroupLink = ""
 global.sessionName = "session"
 
 // Prefix //
@@ -23,12 +23,12 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "West Bengal, India"
+global.location = "Nigeria,Kano,Yankaba"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/FantoX001"
-global.lolhuman = "KaysaS"
+global.lolhuman = "Obizzy"
 
 
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
